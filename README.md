@@ -7,11 +7,6 @@
 
 1. [🎯 Objective](#-objective)  
 2. [📊 Dashboard Summary](#-dashboard-summary)  
-3. [🧹 Data Cleaning Steps](#-data-cleaning-steps)  
-4. [📈 Key Findings](#-key-findings)  
-5. [✅ Recommendations](#-recommendations)  
-6. [📂 Files Included](#-files-included)  
-7. [📌 Future Improvements](#-future-improvements)
 
 ## 🎯 Objective
 
