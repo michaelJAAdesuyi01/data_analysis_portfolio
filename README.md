@@ -1,14 +1,14 @@
-# 📘 Student Performance Analysis Dashboard
+# 📘 Data Analysis Portfolio
 
 **Author:** Michael Adesuyi  
-**Tools Used:** Microsoft Excel, Power BI, Word
+**Tools Used:** Microsoft Excel, Power BI, Word, Mircosoft PowerPoint, Mircosoft Word
 
 ## 📑 Table of Contents
 
-1. [🎯 Objective](#-objective)  
-2. [📊 Dashboard Summary](#-dashboard-summary)  
+1. Intership Work - Virgin Money  
+2. Student Peformance
 
-## 🎯 Objective
+## 🎯Student Performance Objective
 
 > To analyze how socio-economic and demographic factors influence student academic performance and to identify patterns across gender, parental education, race/ethnicity, lunch status, and test preparation.
 
