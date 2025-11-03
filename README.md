@@ -7,6 +7,7 @@
 
 1. Intership Work - Virgin Money  
 2. Student Peformance
+3. Digital Sales
 
 ## 🎯Student Performance Objective
 
